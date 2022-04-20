@@ -6,7 +6,7 @@ En este perfil e abarcan los datos personales del estudiante, sumado sus destrez
 
 ## Datos Generales
 
-<img src="https://i.pinimg.com/originals/ab/c2/87/abc2874156dfb2de217229885f64d277.jpg" alt="https://i.pinimg.com/originals/ab/c2/87/abc2874156dfb2de217229885f64d277.jpg" width="150" height="150">
+<img src="https://i.pinimg.com/originals/ab/c2/87/abc2874156dfb2de217229885f64d277.jpg" alt="https://i.pinimg.com/originals/ab/c2/87/abc2874156dfb2de217229885f64d277.jpg" width="200" height="200">
 
 1. ***Nombre:*** _Bryan Ramirez_
 2. ***Nacionalidad:*** _Mexicano_
